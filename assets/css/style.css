@@ -1,0 +1,51 @@
+html,body{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+
+}
+header{
+   
+    background: white;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0px 50px 0px 50px;
+}
+nav{
+    float:right;
+
+}
+h1{
+    padding: 10px;
+    background: teal;
+    color: white;
+   
+    margin:0px 0px 0px 40px;
+    float: left;
+   
+}
+
+ul{
+    list-style: none;
+    color:gray;
+    padding: 5px;
+    font size: 14px;
+    
+
+}
+li{
+    display: inline;
+    
+
+    
+}
+main{
+    background: blue;
+    margin: 90px 90px 90px 90px;
+
+}
+#images{
+    float:left;
+}
